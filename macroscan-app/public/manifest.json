@@ -1,0 +1,17 @@
+{
+  "name": "MacroScan Familia",
+  "short_name": "MacroScan",
+  "description": "Registro inteligente de comidas con IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
